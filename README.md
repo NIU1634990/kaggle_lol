@@ -4,11 +4,12 @@ Es busca predir l'equip guanyador en les partides classificatòries del videojoc
 
 
 ## Estructura del projecte
-
+'''
 ├── data/               # Dataset utilitzat
 ├── models/             # Models o imatges utilizats al notebook
 ├── kaggle.ipynb        # Notebook principal d'anàlisi
 └── README.md           # Documentació del projecte
+'''s
 
 ## Objectiu
 
