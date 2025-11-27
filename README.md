@@ -24,10 +24,12 @@ Cal mencionar que donat que el videojoc evoluciona constantment, aquestes dades 
 1. Introducció al Cas Kaggle
 2. Explicació del Videojoc      
     * Necessaria per entendre el significat de les variables del dataset
-3. Anàlisi exploratori del dataset (EDA)
-4. Preprocessament i selecció d'atributs
-5. Modelatge i predicció
-6. Avaluació de resultats
+3. Dependències
+    * Llibreries utilitzades al notebook
+4. Anàlisi exploratori del dataset (EDA)
+5. Preprocessament i selecció d'atributs
+6. Modelatge i predicció
+7. Avaluació de resultats
 
 
 ## Models utilitzats
