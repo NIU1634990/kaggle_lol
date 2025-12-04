@@ -17,17 +17,26 @@ L'objectiu principal d'aquest anàlisi es predir la probabilitat de que l'equip 
 
 Dataset original: https://www.kaggle.com/datasets/bobbyscience/league-of-legends-soloq-ranked-games/data.
 
-Cal mencionar que donat que el videojoc evoluciona constantment, aquestes dades no representen l'estat actual del joc.
+Cal mencionar que donat que el videojoc evoluciona constantment, aquestes dades no representen l'estat actual del joc. El dataset conté dades unicament de l'any 2019.
 
 ## Metodologia i aproximament
 
 1. Introducció al Cas Kaggle
-2. Explicació del Videojoc      
+2. Explicació del Gameplay
     * Necessaria per entendre el significat de les variables del dataset
 3. Dependències
     * Llibreries utilitzades al notebook
 4. Anàlisi exploratori del dataset (EDA)
-5. Preprocessament i selecció d'atributs
+    * 4.1. Informació bàsica del dataset
+    * 4.2. Estadístiques descriptives
+    * 4.3. Distribucio de la variable objectiu
+    * 4.4. Correlació entre variables i la variable objectiu
+    * 4.5. Anàlisi per trams temporals (frames)
+    * 4.6. Evolució de les estadístiques de joc per frame
+    * 4.7. Anàlisi d'objectius épics (Dracsm Baron Nashor, Rift Herald)
+    * 4.8. Análisi de destrucció d'estructures
+    * 4.9. Anàlisi de Visió (Wards)
+5. Preprocessament de les dades
 6. Modelatge i predicció
 7. Avaluació de resultats
 
