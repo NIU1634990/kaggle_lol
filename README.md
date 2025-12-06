@@ -37,7 +37,7 @@ Cal mencionar que donat que el videojoc evoluciona constantment, aquestes dades 
     * 4.8. Análisi de destrucció d'estructures
     * 4.9. Anàlisi de Visió (Wards)
 5. Preprocessament de les dades
-6. Modelatge i predicció
+6. Selecció de models i predicció
 7. Avaluació de resultats
 
 
