@@ -36,9 +36,9 @@ Cal mencionar que donat que el videojoc evoluciona constantment, aquestes dades 
     * 4.7. Anàlisi d'objectius épics (Dracsm Baron Nashor, Rift Herald)
     * 4.8. Análisi de destrucció d'estructures
     * 4.9. Anàlisi de Visió (Wards)
-5. Preprocessament de les dades
-6. Modelatge i predicció
-7. Avaluació de resultats
+5. Processament de dades i selecció de variables
+6. Models de classificació i predicció
+7. Conclusions
 
 
 ## Models utilitzats
