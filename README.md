@@ -38,7 +38,23 @@ Cal mencionar que donat que el videojoc evoluciona constantment, aquestes dades 
     * 4.9. Anàlisi de Visió (Wards)
 5. Processament de dades i selecció de variables
 6. Models de classificació i predicció
+    * 6.1. Matrius de confusió i corbes ROC
 7. Conclusions
 
 
 ## Models utilitzats
+
+* Regresió logística: Model lineal que serveix com a sòlida línia base. Ha proporcionat resultats sorprenentment bons.
+* Random Forest: Model d’arbres aleatoris capaç de capturar interaccions no lineals. En aquest dataset, el seu rendiment és lleugerament inferior als models de boosting.
+* HistGradientBoosting: Model de gradient boosting dissenyat per a grans volums de dades. Ha estat el model amb millor ROC AUC.
+* XGBoost: Un dels models més utilitzats per competició tabular. En el dataset analitzat obté resultats pràcticament idèntics a HistGradientBoosting.
+
+Les mètriques finals són aproximadament:
+```
+| Model                 | Accuracy | ROC AUC |
+|-----------------------|----------|---------|
+| Logistic Regression   | ~0.786   | ~0.871  |
+| Random Forest         | ~0.775   | ~0.858  |
+| HistGradientBoosting  | ~0.786   | ~0.873  |
+| XGBoost               | ~0.786   | ~0.871  |
+```
