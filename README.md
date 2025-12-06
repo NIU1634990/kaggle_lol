@@ -1,3 +1,8 @@
+## Autor
+**Benaia J. Heinze**  
+Data del projecte: 06/12/2025  
+
+
 # League of Legends SOLO-Q Ranked Games - Anàlisi Cas Kaggle
 
 Es busca predir l'equip guanyador en les partides classificatòries del videojoc League of Legends utilitzant estadístiques de partides del 2019.
