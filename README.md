@@ -13,6 +13,7 @@ Es busca predir l'equip guanyador en les partides classificatòries del videojoc
 ├── data/               # Dataset utilitzat
 ├── models/             # Models o imatges utilizats al notebook
 ├── kaggle.ipynb        # Notebook principal d'anàlisi
+├── kaggle.html         # Notebook en html per més llegibilitat
 └── README.md           # Documentació del projecte
 ```
 
